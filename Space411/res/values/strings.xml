@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Space 411</string>
+    <string name="action_settings">Settings</string>
+   
+    <string name="txtIntroduction">View Space Through Your Phone:</string>
+	<string name="imgViewContDescription">Photos</string>
+	<string name="btnStartLoading">Start Loading</string>
+	
+	<string name="tstConError1">Unable To Establish Connection</string>
+	<string name="tstConError2">There\'s A Problem with your Internet Connection. Please check if it\'s activated.</string>
+	<string name="tstBitmapError">Can\'t download Image.</string>
+	
+</resources>
